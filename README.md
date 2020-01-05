@@ -62,7 +62,7 @@ Connecting to 52.78.36.66 on port 82, a series of 18 random pairs of boolean alg
 
 Initially, I simply tried simplifying the equations via https://www.dcode.fr/boolean-expressions-calculator, but for longer equations, an error was presented [dcode_boolean_calc.png](WhiteHat2020/dcode_boolean_calc.png)
 
-Via https://stackoverflow.com/questions/14902141/any-good-boolean-expression-simplifiers-out-there/14903388, I came across https://sourceforge.net/projects/bexpred/ [BExpred.png](WhiteHat2020/BExpred.png), a java program which includes a tool called Expression Compare.  This tool allows for pasting equations into each field, and produces a True or False response.
+Via https://stackoverflow.com/questions/14902141/any-good-boolean-expression-simplifiers-out-there/14903388, I came across https://sourceforge.net/projects/bexpred/, a java program which includes a tool called Expression Compare.  This tool allows for pasting equations into each field, and produces a True or False response.
 
 Since the server didn't issue any timeouts, I was not forced to do any programming in this challenge, but simply copied the text of E1 and E2 from the netcat terminal and pasted them into the java tool.  For each True response, I typed YES into the terminal, and NO for False responses.
 
