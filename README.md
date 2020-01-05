@@ -11,7 +11,7 @@ WhiteHat Grand Prix - 06 - 2020
 ```
 Title                         Category        Points  Flag
 ----------------------------- --------------- ------- ------------------------------------------
-Programming 01                  Prog            100    WhiteHat{BO0l3_1s_s1MpL3_f0R_Pr0gR4mM3R}
+Programming 03                  Prog            100    WhiteHat{BO0l3_1s_s1MpL3_f0R_Pr0gR4mM3R}
 ```
 ## Prog3
 
