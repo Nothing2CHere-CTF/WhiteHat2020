@@ -4,7 +4,7 @@ WhiteHat Grand Prix - 06 - 2020
 ## Overview
 
 **URL:** https://grandprix.whitehatvn.com/  
-**Organisors:** Vietnam Today
+**Organisers:** Vietnam Today
 **Duration:** 24 hours  
 **Team mates:** Team Competition  
 
